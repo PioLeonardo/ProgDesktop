@@ -1,0 +1,14 @@
+1. Untuk dapat menggunakan user32.dll
+2. Queue, karena dapat menggunakan LIFO yang mana berarti Last In First Out. ini sesuai dengan fitur Undo
+3. Cara kerja Instr adalah dengan sampai ketemu yang dicari lalu berhenti disitu
+Perbedaan:
+Find : menemukan data yang pertama kali dicari dan ditemukan lalu menampilkannya 
+Find Next : menemukan data yang selanjutnya setelah data yang pertama kali dicari ditemukan dan menampilkannya
+4. mulai memilih
+5. membuat lebar dari kalom ke-0 menjadi -2
+6. untuk membuat panel baru pada form di variabel f yang dibuat
+7. untuk memproses gambar yang ingin dieksekusi.
+maksud perintah Process.Start()untuk memulai proses yang diinginkan.
+Method lain:
+a. Process.Handle
+b. Process.Id
