@@ -1,0 +1,13 @@
+C:\Users\pi0le\source\repos\MassFileRenamer\MassFileRenamer\obj\Debug\MassFileRenamer.vbproj.AssemblyReference.cache
+C:\Users\pi0le\source\repos\MassFileRenamer\MassFileRenamer\obj\Debug\MassFileRenamer.vbproj.SuggestedBindingRedirects.cache
+C:\Users\pi0le\source\repos\MassFileRenamer\MassFileRenamer\obj\Debug\MassFileRenamer.Form1.resources
+C:\Users\pi0le\source\repos\MassFileRenamer\MassFileRenamer\obj\Debug\MassFileRenamer.Resources.resources
+C:\Users\pi0le\source\repos\MassFileRenamer\MassFileRenamer\obj\Debug\MassFileRenamer.vbproj.GenerateResource.cache
+C:\Users\pi0le\source\repos\MassFileRenamer\MassFileRenamer\obj\Debug\MassFileRenamer.vbproj.CoreCompileInputs.cache
+C:\Users\pi0le\source\repos\MassFileRenamer\MassFileRenamer\bin\Debug\MassFileRenamer.exe.config
+C:\Users\pi0le\source\repos\MassFileRenamer\MassFileRenamer\bin\Debug\MassFileRenamer.exe
+C:\Users\pi0le\source\repos\MassFileRenamer\MassFileRenamer\bin\Debug\MassFileRenamer.pdb
+C:\Users\pi0le\source\repos\MassFileRenamer\MassFileRenamer\bin\Debug\MassFileRenamer.xml
+C:\Users\pi0le\source\repos\MassFileRenamer\MassFileRenamer\obj\Debug\MassFileRenamer.exe
+C:\Users\pi0le\source\repos\MassFileRenamer\MassFileRenamer\obj\Debug\MassFileRenamer.xml
+C:\Users\pi0le\source\repos\MassFileRenamer\MassFileRenamer\obj\Debug\MassFileRenamer.pdb
