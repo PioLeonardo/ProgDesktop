@@ -1,0 +1,3 @@
+1. sudah ada di kodenya frmUtama
+2. error handling saya buat pada fungsi simpan.
+4. Perbedaan gambar asli dengan yang sudah dikurangi kontrasnya sebanyak 8 kali pada histogramnya adalah semakin bergerak ke tengah dan gambar semakin abu-abu.

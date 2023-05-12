@@ -1,0 +1,14 @@
+D:\Prog Desktop\Tugas\PengolahanCitra2\PengolahanCitra2\obj\Debug\PengolahanCitra2.vbproj.AssemblyReference.cache
+D:\Prog Desktop\Tugas\PengolahanCitra2\PengolahanCitra2\obj\Debug\PengolahanCitra2.vbproj.SuggestedBindingRedirects.cache
+D:\Prog Desktop\Tugas\PengolahanCitra2\PengolahanCitra2\obj\Debug\PengolahanCitra2.frmUtama.resources
+D:\Prog Desktop\Tugas\PengolahanCitra2\PengolahanCitra2\obj\Debug\PengolahanCitra2.frmHistogram.resources
+D:\Prog Desktop\Tugas\PengolahanCitra2\PengolahanCitra2\obj\Debug\PengolahanCitra2.Resources.resources
+D:\Prog Desktop\Tugas\PengolahanCitra2\PengolahanCitra2\obj\Debug\PengolahanCitra2.vbproj.GenerateResource.cache
+D:\Prog Desktop\Tugas\PengolahanCitra2\PengolahanCitra2\obj\Debug\PengolahanCitra2.vbproj.CoreCompileInputs.cache
+D:\Prog Desktop\Tugas\PengolahanCitra2\PengolahanCitra2\bin\Debug\PengolahanCitra2.exe.config
+D:\Prog Desktop\Tugas\PengolahanCitra2\PengolahanCitra2\bin\Debug\PengolahanCitra2.exe
+D:\Prog Desktop\Tugas\PengolahanCitra2\PengolahanCitra2\bin\Debug\PengolahanCitra2.pdb
+D:\Prog Desktop\Tugas\PengolahanCitra2\PengolahanCitra2\bin\Debug\PengolahanCitra2.xml
+D:\Prog Desktop\Tugas\PengolahanCitra2\PengolahanCitra2\obj\Debug\PengolahanCitra2.exe
+D:\Prog Desktop\Tugas\PengolahanCitra2\PengolahanCitra2\obj\Debug\PengolahanCitra2.xml
+D:\Prog Desktop\Tugas\PengolahanCitra2\PengolahanCitra2\obj\Debug\PengolahanCitra2.pdb
